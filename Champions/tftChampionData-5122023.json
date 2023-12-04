@@ -1,0 +1,305 @@
+{
+    "totalChampion": 60,
+    "champions": [
+        {
+            "championName": "Ahri",
+            "championImage": "https://rerollcdn.com/characters/Skin/10/Ahri.png",
+            "championDetailLink": "https://tftactics.gg/champions/ahri"
+        },
+        {
+            "championName": "Akali K/DA",
+            "championImage": "https://rerollcdn.com/characters/Skin/10/AkaliKDA.png",
+            "championDetailLink": "https://tftactics.gg/champions/akali_kda"
+        },
+        {
+            "championName": "Akali True Damage",
+            "championImage": "https://rerollcdn.com/characters/Skin/10/AkaliTrueDamage.png",
+            "championDetailLink": "https://tftactics.gg/champions/akali_true_damage"
+        },
+        {
+            "championName": "Amumu",
+            "championImage": "https://rerollcdn.com/characters/Skin/10/Amumu.png",
+            "championDetailLink": "https://tftactics.gg/champions/amumu"
+        },
+        {
+            "championName": "Annie",
+            "championImage": "https://rerollcdn.com/characters/Skin/10/Annie.png",
+            "championDetailLink": "https://tftactics.gg/champions/annie"
+        },
+        {
+            "championName": "Aphelios",
+            "championImage": "https://rerollcdn.com/characters/Skin/10/Aphelios.png",
+            "championDetailLink": "https://tftactics.gg/champions/aphelios"
+        },
+        {
+            "championName": "Bard",
+            "championImage": "https://rerollcdn.com/characters/Skin/10/Bard.png",
+            "championDetailLink": "https://tftactics.gg/champions/bard"
+        },
+        {
+            "championName": "Blitzcrank",
+            "championImage": "https://rerollcdn.com/characters/Skin/10/Blitzcrank.png",
+            "championDetailLink": "https://tftactics.gg/champions/blitzcrank"
+        },
+        {
+            "championName": "Caitlyn",
+            "championImage": "https://rerollcdn.com/characters/Skin/10/Caitlyn.png",
+            "championDetailLink": "https://tftactics.gg/champions/caitlyn"
+        },
+        {
+            "championName": "Corki",
+            "championImage": "https://rerollcdn.com/characters/Skin/10/Corki.png",
+            "championDetailLink": "https://tftactics.gg/champions/corki"
+        },
+        {
+            "championName": "Ekko",
+            "championImage": "https://rerollcdn.com/characters/Skin/10/Ekko.png",
+            "championDetailLink": "https://tftactics.gg/champions/ekko"
+        },
+        {
+            "championName": "Evelynn",
+            "championImage": "https://rerollcdn.com/characters/Skin/10/Evelynn.png",
+            "championDetailLink": "https://tftactics.gg/champions/evelynn"
+        },
+        {
+            "championName": "Ezreal",
+            "championImage": "https://rerollcdn.com/characters/Skin/10/Ezreal.png",
+            "championDetailLink": "https://tftactics.gg/champions/ezreal"
+        },
+        {
+            "championName": "Garen",
+            "championImage": "https://rerollcdn.com/characters/Skin/10/Garen.png",
+            "championDetailLink": "https://tftactics.gg/champions/garen"
+        },
+        {
+            "championName": "Gnar",
+            "championImage": "https://rerollcdn.com/characters/Skin/10/Gnar.png",
+            "championDetailLink": "https://tftactics.gg/champions/gnar"
+        },
+        {
+            "championName": "Gragas",
+            "championImage": "https://rerollcdn.com/characters/Skin/10/Gragas.png",
+            "championDetailLink": "https://tftactics.gg/champions/gragas"
+        },
+        {
+            "championName": "Illaoi",
+            "championImage": "https://rerollcdn.com/characters/Skin/10/Illaoi.png",
+            "championDetailLink": "https://tftactics.gg/champions/illaoi"
+        },
+        {
+            "championName": "Jax",
+            "championImage": "https://rerollcdn.com/characters/Skin/10/Jax.png",
+            "championDetailLink": "https://tftactics.gg/champions/jax"
+        },
+        {
+            "championName": "Jhin",
+            "championImage": "https://rerollcdn.com/characters/Skin/10/Jhin.png",
+            "championDetailLink": "https://tftactics.gg/champions/jhin"
+        },
+        {
+            "championName": "Jinx",
+            "championImage": "https://rerollcdn.com/characters/Skin/10/Jinx.png",
+            "championDetailLink": "https://tftactics.gg/champions/jinx"
+        },
+        {
+            "championName": "KSante",
+            "championImage": "https://rerollcdn.com/characters/Skin/10/KSante.png",
+            "championDetailLink": "https://tftactics.gg/champions/ksante"
+        },
+        {
+            "championName": "Kaisa",
+            "championImage": "https://rerollcdn.com/characters/Skin/10/Kaisa.png",
+            "championDetailLink": "https://tftactics.gg/champions/kaisa"
+        },
+        {
+            "championName": "Karthus",
+            "championImage": "https://rerollcdn.com/characters/Skin/10/Karthus.png",
+            "championDetailLink": "https://tftactics.gg/champions/karthus"
+        },
+        {
+            "championName": "Katarina",
+            "championImage": "https://rerollcdn.com/characters/Skin/10/Katarina.png",
+            "championDetailLink": "https://tftactics.gg/champions/katarina"
+        },
+        {
+            "championName": "Kayle",
+            "championImage": "https://rerollcdn.com/characters/Skin/10/Kayle.png",
+            "championDetailLink": "https://tftactics.gg/champions/kayle"
+        },
+        {
+            "championName": "Kayn",
+            "championImage": "https://rerollcdn.com/characters/Skin/10/Kayn.png",
+            "championDetailLink": "https://tftactics.gg/champions/kayn"
+        },
+        {
+            "championName": "Kennen",
+            "championImage": "https://rerollcdn.com/characters/Skin/10/Kennen.png",
+            "championDetailLink": "https://tftactics.gg/champions/kennen"
+        },
+        {
+            "championName": "Lillia",
+            "championImage": "https://rerollcdn.com/characters/Skin/10/Lillia.png",
+            "championDetailLink": "https://tftactics.gg/champions/lillia"
+        },
+        {
+            "championName": "Lucian",
+            "championImage": "https://rerollcdn.com/characters/Skin/10/Lucian.png",
+            "championDetailLink": "https://tftactics.gg/champions/lucian"
+        },
+        {
+            "championName": "Lulu",
+            "championImage": "https://rerollcdn.com/characters/Skin/10/Lulu.png",
+            "championDetailLink": "https://tftactics.gg/champions/lulu"
+        },
+        {
+            "championName": "Lux",
+            "championImage": "https://rerollcdn.com/characters/Skin/10/Lux.png",
+            "championDetailLink": "https://tftactics.gg/champions/lux"
+        },
+        {
+            "championName": "Miss Fortune",
+            "championImage": "https://rerollcdn.com/characters/Skin/10/MissFortune.png",
+            "championDetailLink": "https://tftactics.gg/champions/miss_fortune"
+        },
+        {
+            "championName": "Mordekaiser",
+            "championImage": "https://rerollcdn.com/characters/Skin/10/Mordekaiser.png",
+            "championDetailLink": "https://tftactics.gg/champions/mordekaiser"
+        },
+        {
+            "championName": "Nami",
+            "championImage": "https://rerollcdn.com/characters/Skin/10/Nami.png",
+            "championDetailLink": "https://tftactics.gg/champions/nami"
+        },
+        {
+            "championName": "Neeko",
+            "championImage": "https://rerollcdn.com/characters/Skin/10/Neeko.png",
+            "championDetailLink": "https://tftactics.gg/champions/neeko"
+        },
+        {
+            "championName": "Olaf",
+            "championImage": "https://rerollcdn.com/characters/Skin/10/Olaf.png",
+            "championDetailLink": "https://tftactics.gg/champions/olaf"
+        },
+        {
+            "championName": "Pantheon",
+            "championImage": "https://rerollcdn.com/characters/Skin/10/Pantheon.png",
+            "championDetailLink": "https://tftactics.gg/champions/pantheon"
+        },
+        {
+            "championName": "Poppy",
+            "championImage": "https://rerollcdn.com/characters/Skin/10/Poppy.png",
+            "championDetailLink": "https://tftactics.gg/champions/poppy"
+        },
+        {
+            "championName": "Qiyana",
+            "championImage": "https://rerollcdn.com/characters/Skin/10/Qiyana.png",
+            "championDetailLink": "https://tftactics.gg/champions/qiyana"
+        },
+        {
+            "championName": "Riven",
+            "championImage": "https://rerollcdn.com/characters/Skin/10/Riven.png",
+            "championDetailLink": "https://tftactics.gg/champions/riven"
+        },
+        {
+            "championName": "Samira",
+            "championImage": "https://rerollcdn.com/characters/Skin/10/Samira.png",
+            "championDetailLink": "https://tftactics.gg/champions/samira"
+        },
+        {
+            "championName": "Senna",
+            "championImage": "https://rerollcdn.com/characters/Skin/10/Senna.png",
+            "championDetailLink": "https://tftactics.gg/champions/senna"
+        },
+        {
+            "championName": "Seraphine",
+            "championImage": "https://rerollcdn.com/characters/Skin/10/Seraphine.png",
+            "championDetailLink": "https://tftactics.gg/champions/seraphine"
+        },
+        {
+            "championName": "Sett",
+            "championImage": "https://rerollcdn.com/characters/Skin/10/Sett.png",
+            "championDetailLink": "https://tftactics.gg/champions/sett"
+        },
+        {
+            "championName": "Sona",
+            "championImage": "https://rerollcdn.com/characters/Skin/10/Sona.png",
+            "championDetailLink": "https://tftactics.gg/champions/sona"
+        },
+        {
+            "championName": "Tahm Kench",
+            "championImage": "https://rerollcdn.com/characters/Skin/10/TahmKench.png",
+            "championDetailLink": "https://tftactics.gg/champions/tahm_kench"
+        },
+        {
+            "championName": "Taric",
+            "championImage": "https://rerollcdn.com/characters/Skin/10/Taric.png",
+            "championDetailLink": "https://tftactics.gg/champions/taric"
+        },
+        {
+            "championName": "Thresh",
+            "championImage": "https://rerollcdn.com/characters/Skin/10/Thresh.png",
+            "championDetailLink": "https://tftactics.gg/champions/thresh"
+        },
+        {
+            "championName": "Twisted Fate",
+            "championImage": "https://rerollcdn.com/characters/Skin/10/TwistedFate.png",
+            "championDetailLink": "https://tftactics.gg/champions/twisted_fate"
+        },
+        {
+            "championName": "Twitch",
+            "championImage": "https://rerollcdn.com/characters/Skin/10/Twitch.png",
+            "championDetailLink": "https://tftactics.gg/champions/twitch"
+        },
+        {
+            "championName": "Urgot",
+            "championImage": "https://rerollcdn.com/characters/Skin/10/Urgot.png",
+            "championDetailLink": "https://tftactics.gg/champions/urgot"
+        },
+        {
+            "championName": "Vex",
+            "championImage": "https://rerollcdn.com/characters/Skin/10/Vex.png",
+            "championDetailLink": "https://tftactics.gg/champions/vex"
+        },
+        {
+            "championName": "Vi",
+            "championImage": "https://rerollcdn.com/characters/Skin/10/Vi.png",
+            "championDetailLink": "https://tftactics.gg/champions/vi"
+        },
+        {
+            "championName": "Viego",
+            "championImage": "https://rerollcdn.com/characters/Skin/10/Viego.png",
+            "championDetailLink": "https://tftactics.gg/champions/viego"
+        },
+        {
+            "championName": "Yasuo",
+            "championImage": "https://rerollcdn.com/characters/Skin/10/Yasuo.png",
+            "championDetailLink": "https://tftactics.gg/champions/yasuo"
+        },
+        {
+            "championName": "Yone",
+            "championImage": "https://rerollcdn.com/characters/Skin/10/Yone.png",
+            "championDetailLink": "https://tftactics.gg/champions/yone"
+        },
+        {
+            "championName": "Yorick",
+            "championImage": "https://rerollcdn.com/characters/Skin/10/Yorick.png",
+            "championDetailLink": "https://tftactics.gg/champions/yorick"
+        },
+        {
+            "championName": "Zac",
+            "championImage": "https://rerollcdn.com/characters/Skin/10/Zac.png",
+            "championDetailLink": "https://tftactics.gg/champions/zac"
+        },
+        {
+            "championName": "Zed",
+            "championImage": "https://rerollcdn.com/characters/Skin/10/Zed.png",
+            "championDetailLink": "https://tftactics.gg/champions/zed"
+        },
+        {
+            "championName": "Ziggs",
+            "championImage": "https://rerollcdn.com/characters/Skin/10/Ziggs.png",
+            "championDetailLink": "https://tftactics.gg/champions/ziggs"
+        }
+    ]
+}
